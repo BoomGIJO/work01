@@ -2,7 +2,7 @@
   <v-app>
     <v-navigation-drawer v-model="drawer" app right/>
     <v-toolbar app>
-      <v-toolbar-title>ระบบจัดการนักศึกษา</v-toolbar-title>
+      <v-toolbar-title>ระบบจัดการพนักงานบริษัท</v-toolbar-title>
       <v-spacer/>
       <v-toolbar-side-icon @click.stop="drawer = !drawer"/>
     </v-toolbar>
